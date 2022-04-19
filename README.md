@@ -1,5 +1,5 @@
 # TcKimlikApi
-C# ile TC Kimlik Api doğrulama 
+C# ile TC Kimlik Api doğrulama (SOAP API)
 ***
 
 ![tc1](https://user-images.githubusercontent.com/46112568/163969601-6fd38527-63c3-4c63-9e92-6772fb9fa573.PNG)
