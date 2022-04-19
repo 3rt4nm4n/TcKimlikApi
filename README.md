@@ -1,5 +1,12 @@
 # TcKimlikApi
 C# ile TC Kimlik Api doğrulama (SOAP API)
+
+Girilen bilgiler kontrol ediliyor. Bool tanımlı durum "True" dönerse, bilgi mesajı veriyor. 
+Girilen bilgiler yanlışsa hata mesajı veriyor.
+***
+
+### Resimler
+
 ***
 
 ![tc1](https://user-images.githubusercontent.com/46112568/163969601-6fd38527-63c3-4c63-9e92-6772fb9fa573.PNG)
